@@ -1,5 +1,6 @@
-import React from 'react';
+import React, {} from 'react';
 import PropTypes from 'prop-types';
+import Context from "../context";
 
 const styles = {
     li: {
